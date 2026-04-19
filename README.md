@@ -39,4 +39,4 @@ We may update our Privacy Policy from time to time. Any changes will be reflecte
 
 ## 8. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
-**[Insert Your Developer Email Here]**
+**iknownothingonline@gmail.com**
